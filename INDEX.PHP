@@ -39,6 +39,9 @@
                   Muchas felicidades hoy por ser el dia de tus 18 primaveras, espero que te la pases de lo mejor junto a tus seres queridos, y que no olvides tus sueños por alcanzar. Echale muchas ganas, que cada día estamos mas cerca. 
                   <br>
                   Enhorabuena!!! Te mando un fuerte abrazo,  espero que cuando suba a Tlax, me invites la coca. jajajaj Me guardas pastel y mucho exito en todo lo emprendido. <br><br><br>
+                  <?php 
+                     echo  "<3";
+                   ?>
 ¡Felicidades!
                 </P>
             </div>
